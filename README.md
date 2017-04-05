@@ -14,6 +14,6 @@ Directions:
 - Select the file to attempt to repair.
 - Select the Repair button.
 - The application may say "(not responding)".  This is normal during the repair process.  This is quick and dirty, and
-I'm too lazy to push the repair process to a worker thread.
+I don't have the time to push the repair process to a worker thread right now.
 - If a green bar appears below the file box, the repair was not needed or successful.
 - If a red bar appears, the repair failed.
