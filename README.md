@@ -1,7 +1,9 @@
 sdf-repair
 ==========
 
-Making a usable tool out of Microsoft's help article.
+Making a usable tool out of a Stack Overflow and a Microsoft help article:
+* http://stackoverflow.com/questions/23001245/where-is-the-sql-server-compact-repair-utility
+* https://technet.microsoft.com/en-us/library/ms172420.aspx
 
 This tool requires the SQLCompact 3.5 driver to be installed.  If TapWatch3 is installed, all dependencies are already
 installed.
